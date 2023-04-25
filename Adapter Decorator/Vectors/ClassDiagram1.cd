@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vectors.Polar_Model.Polar2DAdapter" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEAAAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Polar Model\Polar2DAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vectors.Vector2D_Model._2DPolarInheritance" Collapsed="true">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vector2D Model\2DPolarInheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectors.Vector2D_Model.Vector2D" Collapsed="true">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAACAAAgAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Vector2D Model\Vector2D.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vectors.Vector3D_Model.Vector3DDecorator" Collapsed="true">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAACAAAgAAgAAAAAAAAAAAIAAAAAAAQAAAAg=</HashCode>
+      <FileName>Vector3D Model\Vector3DDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vectors.Vector3D_Model.Vector3DInheritance" Collapsed="true">
+    <Position X="12" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAACAAAgAAgAAAAAAAAAAAIAAAAAAAQAAAAA=</HashCode>
+      <FileName>Vector3D Model\Vector3DInheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vectors.Program" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Vectors.Polar_Model.IPolar2D" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Polar Model\IPolar2D.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Vectors.IVector" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vector2D Model\IVector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

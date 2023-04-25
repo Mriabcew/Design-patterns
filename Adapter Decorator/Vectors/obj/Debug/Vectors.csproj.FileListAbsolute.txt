@@ -1,0 +1,8 @@
+K:\C#\Vectors\bin\Debug\Vectors.exe.config
+K:\C#\Vectors\bin\Debug\Vectors.exe
+K:\C#\Vectors\bin\Debug\Vectors.pdb
+K:\C#\Vectors\obj\Debug\Vectors.csproj.AssemblyReference.cache
+K:\C#\Vectors\obj\Debug\Vectors.csproj.SuggestedBindingRedirects.cache
+K:\C#\Vectors\obj\Debug\Vectors.csproj.CoreCompileInputs.cache
+K:\C#\Vectors\obj\Debug\Vectors.exe
+K:\C#\Vectors\obj\Debug\Vectors.pdb

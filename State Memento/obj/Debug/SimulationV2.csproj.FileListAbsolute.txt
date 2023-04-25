@@ -1,0 +1,12 @@
+K:\C#\SimulationV2\bin\Debug\SimulationV2.exe.config
+K:\C#\SimulationV2\bin\Debug\SimulationV2.exe
+K:\C#\SimulationV2\bin\Debug\SimulationV2.pdb
+K:\C#\SimulationV2\obj\Debug\SimulationV2.csproj.AssemblyReference.cache
+K:\C#\SimulationV2\obj\Debug\SimulationV2.csproj.SuggestedBindingRedirects.cache
+K:\C#\SimulationV2\obj\Debug\SimulationV2.Properties.Resources.resources
+K:\C#\SimulationV2\obj\Debug\SimulationV2.csproj.GenerateResource.cache
+K:\C#\SimulationV2\obj\Debug\SimulationV2.csproj.CoreCompileInputs.cache
+K:\C#\SimulationV2\obj\Debug\SimulationV2.exe
+K:\C#\SimulationV2\obj\Debug\SimulationV2.pdb
+K:\C#\SimulationV2\obj\Debug\SimulationV2.View.Menu.resources
+K:\C#\SimulationV2\obj\Debug\SimulationV2.MainFrame.resources

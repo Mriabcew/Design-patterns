@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NotebookCRUD_V2.View.Login" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAJAAQAACgAABAgAACAAAACAAAAAAAAEACAAAAAAAA=</HashCode>
+      <FileName>View\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NotebookCRUD_V2.View.Editor" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAEBAAAACAABACAAAIAAAABAAAQAAEAAA=</HashCode>
+      <FileName>View\Editor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="NotebookCRUD_V2.View.notebookForm" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIEAAIAACAAQUAAIACQAQACAAgIAAAQAAAABAAAAQM=</HashCode>
+      <FileName>View\notebookForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NotebookCRUD_V2.View.Reader" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAIACAABACAAAAAAAABAAAAAAAAAQ=</HashCode>
+      <FileName>View\Reader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NotebookCRUD_V2.View.Register" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQAACAAABAAAACAAAACCAAIAAAAAFBAAAAAEAQ=</HashCode>
+      <FileName>View\Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NotebookCRUD_V2.UserModel.User" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAEAAAIFAAAAEAAQAgAAAgA=</HashCode>
+      <FileName>UserModel\User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.21" />
+  </Class>
+  <Class Name="NotebookCRUD_V2.NoteModel.Note" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAECAAAAAAAAAAQAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>NoteModel\Note.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NotebookCRUD_V2.DataBaseService.DBConnector" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAIAAAAACAAAAABAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>DataBaseService\DBConnector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NotebookCRUD_V2.Program" Collapsed="true">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="NotebookCRUD_V2.UserModel.IUser" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>UserModel\IUser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NotebookCRUD_V2.NoteModel.INote" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAECAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoteModel\INote.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NotebookCRUD_V2.DataBaseService.IDBConnector" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAIAAAAACAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>DataBaseService\IDBConnector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

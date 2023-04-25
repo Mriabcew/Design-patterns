@@ -1,0 +1,15 @@
+K:\C#\FirebrigadeSim\bin\Debug\net6.0\FirebrigadeSim.exe
+K:\C#\FirebrigadeSim\bin\Debug\net6.0\FirebrigadeSim.deps.json
+K:\C#\FirebrigadeSim\bin\Debug\net6.0\FirebrigadeSim.runtimeconfig.json
+K:\C#\FirebrigadeSim\bin\Debug\net6.0\FirebrigadeSim.dll
+K:\C#\FirebrigadeSim\bin\Debug\net6.0\FirebrigadeSim.pdb
+K:\C#\FirebrigadeSim\obj\Debug\net6.0\FirebrigadeSim.csproj.AssemblyReference.cache
+K:\C#\FirebrigadeSim\obj\Debug\net6.0\FirebrigadeSim.GeneratedMSBuildEditorConfig.editorconfig
+K:\C#\FirebrigadeSim\obj\Debug\net6.0\FirebrigadeSim.AssemblyInfoInputs.cache
+K:\C#\FirebrigadeSim\obj\Debug\net6.0\FirebrigadeSim.AssemblyInfo.cs
+K:\C#\FirebrigadeSim\obj\Debug\net6.0\FirebrigadeSim.csproj.CoreCompileInputs.cache
+K:\C#\FirebrigadeSim\obj\Debug\net6.0\FirebrigadeSim.dll
+K:\C#\FirebrigadeSim\obj\Debug\net6.0\refint\FirebrigadeSim.dll
+K:\C#\FirebrigadeSim\obj\Debug\net6.0\FirebrigadeSim.pdb
+K:\C#\FirebrigadeSim\obj\Debug\net6.0\FirebrigadeSim.genruntimeconfig.cache
+K:\C#\FirebrigadeSim\obj\Debug\net6.0\ref\FirebrigadeSim.dll

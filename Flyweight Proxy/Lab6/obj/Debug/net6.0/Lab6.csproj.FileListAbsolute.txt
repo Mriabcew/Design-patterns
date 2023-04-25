@@ -1,0 +1,15 @@
+K:\C#\Lab6\Lab6\bin\Debug\net6.0\Lab6.exe
+K:\C#\Lab6\Lab6\bin\Debug\net6.0\Lab6.deps.json
+K:\C#\Lab6\Lab6\bin\Debug\net6.0\Lab6.runtimeconfig.json
+K:\C#\Lab6\Lab6\bin\Debug\net6.0\Lab6.dll
+K:\C#\Lab6\Lab6\bin\Debug\net6.0\Lab6.pdb
+K:\C#\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.AssemblyReference.cache
+K:\C#\Lab6\Lab6\obj\Debug\net6.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+K:\C#\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfoInputs.cache
+K:\C#\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfo.cs
+K:\C#\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CoreCompileInputs.cache
+K:\C#\Lab6\Lab6\obj\Debug\net6.0\Lab6.dll
+K:\C#\Lab6\Lab6\obj\Debug\net6.0\refint\Lab6.dll
+K:\C#\Lab6\Lab6\obj\Debug\net6.0\Lab6.pdb
+K:\C#\Lab6\Lab6\obj\Debug\net6.0\Lab6.genruntimeconfig.cache
+K:\C#\Lab6\Lab6\obj\Debug\net6.0\ref\Lab6.dll

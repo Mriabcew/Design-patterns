@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NotebookCRUD_V2.DataBaseService.DBConnector">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAIAAAAACAAAAABAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>DataBaseService\DBConnector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NotebookCRUD_V2.NoteModel.Note">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAQAECAAAAAAAAAAQAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>NoteModel\Note.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NotebookCRUD_V2.UserModel.User">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAACAAAAEAAEAAAIFAAAAEAAQAgAAAgA=</HashCode>
+      <FileName>UserModel\User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NotebookCRUD_V2.View.Editor">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAEBAAAACAABACQAAIAAAABAAAQAAEAQA=</HashCode>
+      <FileName>View\Editor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NotebookCRUD_V2.View.Login">
+    <Position X="18.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAJAAQAACgAABAgAACAAAACAAAAAAAAEACAAAAAAAA=</HashCode>
+      <FileName>View\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NotebookCRUD_V2.View.notebookForm">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIEAAIAACAAQUCAIACQAQACAAgIAAAQAAAABAAAAQM=</HashCode>
+      <FileName>View\notebookForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NotebookCRUD_V2.View.Reader">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAIACAABACAAAAAAAABAACAAAAAAQ=</HashCode>
+      <FileName>View\Reader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NotebookCRUD_V2.View.Register">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQAACAAABAAAACAAAACCAAIAAAAAFBAAACAEAQ=</HashCode>
+      <FileName>View\Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="NotebookCRUD_V2.DataBaseService.IDBConnector">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAIAAAAACAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>DataBaseService\IDBConnector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NotebookCRUD_V2.NoteModel.INote">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAECAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoteModel\INote.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="NotebookCRUD_V2.UserModel.IUser">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>UserModel\IUser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
